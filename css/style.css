@@ -16,10 +16,16 @@ body {
   line-height: 1.7;
   letter-spacing: 0.03em;
 }
-a {
+.logo,
+.header-link,
+.services-section-link,
+.portfolio-projects-link {
   text-decoration: none;
 }
-ul li {
+.nav-items,
+.contacts-items,
+.services-section-items,
+.portfolio-buttons-item {
   list-style-type: none;
   display: inline;
 }

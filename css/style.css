@@ -53,7 +53,7 @@ body {
   font-weight: 700;
   text-shadow: 0px 4px 4px var(--logos-buttons-shadow);
 }
-header .logo {
+.header .logo {
   color: var(--header-logo-color);
 }
 .logo .logo-blue-part {
@@ -117,10 +117,10 @@ header .logo {
 }
 
 /* Футер */
-footer .logo {
+.footer .logo {
   color: var(--white-color);
 }
-footer address {
+.footer address {
   font-style: normal;
   color: var(--white-color);
 }
